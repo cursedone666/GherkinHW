@@ -11,15 +11,11 @@ Feature: Blog
 	I as a user 
 	want to have ability to get new information
 	in order to broaden my worldview
-
-
-
 	
 Background: 
 	Given user is on the homepage
 	When user click on 'Блог' button in header
 	Then user appears on 'Блог' page
-
 
 Scenario: Read about company
 	When user click on 'О нас' page button in blog
