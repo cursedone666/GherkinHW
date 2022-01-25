@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "af8100a0-ab4d-4dbc-919a-02f36b3cb81e": {
+      "ProjectGuid": "af8100a0-ab4d-4dbc-919a-02f36b3cb81e",
+      "DisplayName": "Gherkin",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

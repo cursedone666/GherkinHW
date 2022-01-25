@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "uE3tPxJ8j7mi2uojw6QWcmcOVSMnceeTHBIZ7V1IZhlaxhdHrguISpd+m4NWr4LniZ6bCawBrmB7oDdhrltc4Q==",
+  "dgSpecHash": "x2fq5Z7+rStDM+jU0rqRSSeIkoDqGT6zHK6AvLOWg77mmj0K5rv0josg5F4eOf0wfeckhv68XLUXdMz7RiQHfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\Gherkin\\Gherkin\\Gherkin.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ИльяPC\\Desktop\\Новая папка\\GherkinPrac\\Gherkin\\Gherkin\\Gherkin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ИльяPC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ИльяPC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ИльяPC\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
