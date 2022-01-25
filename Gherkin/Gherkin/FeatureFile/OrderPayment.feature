@@ -15,8 +15,6 @@ Feature: Order payment
 Background: 
 	Given user is on the homepage
 	
-
-@regression
 Scenario: Pay for order through Money Transfer
 	When user click on 'Денежный перевод' button in the header
 	Then user appears on 'Денежный перевод' page
@@ -28,7 +26,7 @@ Scenario: Pay for order through Money Transfer
 	Then user appears on payment confirmation page
 	And user confirms payment
 	Then user sees 'Оплата прошла успешно' message
-@regression
+	
 Scenario: Pay for order by card
 	When user click on Search field
 	And user enters 'Шоколад'
