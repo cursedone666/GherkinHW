@@ -1,16 +1,16 @@
 ﻿@smoke @notAuthorized
 Feature: Catalog of goods
-		I as a user
-		want to have ability to see categories of products
-		in order to speed products search
+	I as a user
+	want to have ability to see categories of products
+	in order to speed products search
 
-		I as a user
-		want to choose category
-		in order to see what sub-categories are there 
+	I as a user
+	want to choose category
+	in order to see what sub-categories are there 
 
-		I as a user
-		want to sort product by popularity
-		in order to choose the most popular product
+	I as a user
+	want to sort product by popularity
+	in order to choose the most popular product
 
 Background: 
 	Given user is in the homepage
